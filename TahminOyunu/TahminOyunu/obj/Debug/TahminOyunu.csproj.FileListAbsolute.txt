@@ -1,0 +1,11 @@
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe.config
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.exe
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\bin\Debug\TahminOyunu.pdb
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csprojResolveAssemblyReference.cache
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Form1.resources
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.Properties.Resources.resources
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.TahmınEt.resources
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.csproj.GenerateResource.Cache
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.exe
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.pdb
+c:\users\efnan\documents\visual studio 2015\Projects\TahminOyunu\TahminOyunu\obj\Debug\TahminOyunu.TahmınEttır.resources
