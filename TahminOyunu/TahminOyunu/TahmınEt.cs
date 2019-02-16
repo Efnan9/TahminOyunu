@@ -44,10 +44,10 @@ namespace TahminOyunu
            
             bool checkNum;
             int num;
-            if (int.TryParse(txtBox.Text, out num) && txtBox.Text != "" ) // kullanıcın sayı girdiği textbox ın boş olup olmaması 
+            if (int.TryParse(txtBox.Text, out num) && txtBox.Text != "" ) // kullanıcının sayı girdiği textbox ın boş olup olmaması 
             {                                                             // ya da girdiği değerin string değil sayı olması
 
-                checkNum = DigitKontrol(num); // kullanıcın girdiği sayının rakamlarının farklı olup olmamasını kontrol etme
+                checkNum = DigitKontrol(num); // kullanıcının girdiği sayının rakamlarının farklı olup olmamasını kontrol etme
                 if (checkNum == false) // eğer değilse rakamları farklı bir sayı girmesini önerme
                 {
                     MessageBox.Show("Rakamları farklı sayı giriniz..!", "Bilgilendirme Penceresi");
